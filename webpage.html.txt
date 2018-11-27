@@ -1,0 +1,17 @@
+<html>
+<!--  Written by Christian Zanala, November 8,2018 -->
+
+<head>
+		
+	<title>  Christian's WebPage </title>
+</head>
+
+<body>
+	<h1> My School </h1> <img src=“myschoolpic.jpg” width=“25%”/> />
+ <br /> <h2> Fun stuff </h2> <img src=“funstuff.jpg” width=“25%”/> />
+
+	
+	<p> At the University of New Haven, our students come first, and their personal and professional development is our primary focus. Our unique educational approach and distinguished academic programs ensure that our students excel at whatever it is they choose to do. </p>
+
+</body>
+</html>
